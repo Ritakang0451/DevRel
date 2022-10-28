@@ -2,7 +2,14 @@
 Some learning and summary about the developer community
 
 
+## Tools
 
+###  [MacOS virtual audio driver  虚拟音频驱动程序](https://github.com/Ritakang0451/BlackHole)_OSS
+
+BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+
+### [live streaming and screen recording 推流和录制](https://github.com/obsproject/obs-studio)_OSS
+OBS Studio - Free and open source software for live streaming and screen recording
 
 ## know others & master-CS Courses
 
